@@ -1,4 +1,4 @@
-build process:
+## build process:
 
 Build single image using the base containing php-fpm and apache (php-fpm-apache)
 
